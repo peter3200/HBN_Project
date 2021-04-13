@@ -1,1 +1,1 @@
-# Scripts for running Auto_EACSF in a SLURM environment
+# Scripts for running Auto_EACSF on a SLURM scheduler in a Linux RH7 environment
